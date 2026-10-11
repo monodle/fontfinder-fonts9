@@ -1,0 +1,94 @@
+{
+  "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts",
+  "fonts": [
+    {
+      "id": "spoqahansansneo",
+      "family": "spoqahansansneo",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "1.100",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        100,
+        300,
+        400,
+        500,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts9@20261011/fonts/spoqahansansneo/spoqahansansneo.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "homepage": "http://www.spoqa-han-sans.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright 2020 Spoqa \\(http://www.spoqa-han-sans.com\\)"
+        },
+        "Font Family": {
+          "en": "Spoqa Han Sans Neo"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.100;GOOG;SpoqaHanSansNeo-Regular"
+        },
+        "Full Font Name": {
+          "en": "Spoqa Han Sans Neo Regular"
+        },
+        "Version": {
+          "en": "Version 1.100;hotconv 1.0.109;makeotfexe 2.5.65596"
+        },
+        "PostScript Name": {
+          "en": "SpoqaHanSansNeo-Regular"
+        },
+        "Trademark": {
+          "en": "Spoqa Han Sans Neo Regular"
+        },
+        "Manufacturer": {
+          "en": "Spoqa (http://www.spoqa-han-sans.com)"
+        },
+        "Designer": {
+          "en": "[Spoqa Han Sans Neo] Dong-huui Kim 김동휘 Younghwa Kang 강영화 Yujin Lee 이유진 [Noto Sans] Ryoko NISHIZUKA 西塚涼子 (kana & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Wenlong ZHANG 张文龙 (bopomofo); Sandoll Communication 산돌커뮤니케이션, Soo-young JANG 장수영 & Joo-yeon KANG 강주연 (hangul elements, letters & syllables) [Lato] Lukasz Dziedzic with Adam Tdwardoch and Botio Nikoltchev"
+        },
+        "URL Vendor": {
+          "en": "http://www.spoqa-han-sans.com"
+        },
+        "License Description": {
+          "en": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+        },
+        "License Info URL": {
+          "en": "http://scripts.sil.org/OFL"
+        }
+      }
+    }
+  ]
+}
