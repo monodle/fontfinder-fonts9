@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'jnebareun2.0';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./jnebareun2.0otf-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'jnebareun2.0';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./jnebareun2.0otf-bold.woff2') format('woff2');
+}

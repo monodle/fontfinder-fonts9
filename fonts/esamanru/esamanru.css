@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'esamanru';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./esamanru-otf-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'esamanru';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./esamanru-otf-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'esamanru';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./esamanru-otf-bold.woff2') format('woff2');
+}

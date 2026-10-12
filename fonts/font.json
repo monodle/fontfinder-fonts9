@@ -2,6 +2,587 @@
   "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts",
   "fonts": [
     {
+      "id": "esamanru",
+      "family": "esamanru",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        500,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts9@20261011/fonts/esamanru/esamanru.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://gonggames.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2020 공게임즈㈜. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2020 공게임즈㈜. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "이사만루체 OTF Bold",
+          "en": "esamanru OTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "FONTRIX;esamanruOTF;Bold"
+        },
+        "Full Font Name": {
+          "ko": "이사만루체 OTF Bold",
+          "en": "esamanru OTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.0.0; Build Release"
+        },
+        "PostScript Name": {
+          "en": "esamanruOTFBold"
+        },
+        "Trademark": {
+          "en": "esamanru OTF Bold is a registered trademark of GONGGAMES."
+        },
+        "Manufacturer": {
+          "en": "GONGGAMES"
+        },
+        "Designer": {
+          "ko": "박용락; 김민주; 조소희;",
+          "en": "Park Young-rak; Kim Min-ju; Cho So-Hee;"
+        },
+        "URL Vendor": {
+          "en": "http://gonggames.com"
+        },
+        "Typographic Family": {
+          "ko": "이사만루체 OTF",
+          "en": "esamanru OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "giants",
+      "family": "giants",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts9@20261011/fonts/giants/giants.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "WWS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.giantsclub.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2023 LOTTE GIANTS. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "자이언츠 Regular",
+          "en": "Giants Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;Tlab;Giants-Regular"
+        },
+        "Full Font Name": {
+          "ko": "자이언츠 Regular",
+          "en": "Giants Regular"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20230503"
+        },
+        "PostScript Name": {
+          "en": "Giants-Regular"
+        },
+        "Trademark": {
+          "ko": "자이언츠체는 롯데자이언츠의 상표입니다.",
+          "en": "Giants typeface is a trademark of LOTTE GIANTS."
+        },
+        "Manufacturer": {
+          "ko": "㈜롯데자이언츠",
+          "en": "LOTTE GIANTS"
+        },
+        "Designer": {
+          "ko": "㈜티랩",
+          "en": "Tlab Inc."
+        },
+        "URL Vendor": {
+          "en": "https://www.giantsclub.com"
+        },
+        "Typographic Family": {
+          "ko": "자이언츠",
+          "en": "Giants"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "giants-inline",
+      "family": "giants-inline",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts9@20261011/fonts/giants/giants-inline.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "ITALIC",
+          "BOLD",
+          "WWS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.giantsclub.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2023 LOTTE GIANTS. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "자이언츠 Inline",
+          "en": "Giants Inline"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold Italic",
+          "en": "Bold Italic"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;Tlab;Giants-Inline"
+        },
+        "Full Font Name": {
+          "ko": "자이언츠 Inline",
+          "en": "Giants Inline"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20230503"
+        },
+        "PostScript Name": {
+          "en": "Giants-Inline"
+        },
+        "Trademark": {
+          "ko": "자이언츠체는 롯데자이언츠의 상표입니다.",
+          "en": "Giants typeface is a trademark of LOTTE GIANTS."
+        },
+        "Manufacturer": {
+          "ko": "㈜롯데자이언츠",
+          "en": "LOTTE GIANTS"
+        },
+        "Designer": {
+          "ko": "㈜티랩",
+          "en": "Tlab Inc."
+        },
+        "URL Vendor": {
+          "en": "https://www.giantsclub.com"
+        },
+        "Typographic Family": {
+          "ko": "자이언츠",
+          "en": "Giants"
+        },
+        "Typographic Subfamily": {
+          "ko": "Inline",
+          "en": "Inline"
+        }
+      }
+    },
+    {
+      "id": "jne-ttobak",
+      "family": "jne-ttobak",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts9@20261011/fonts/jgegokr/jne-ttobak.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 9,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 800,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.jne.go.kr",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2024 Jeollanamdo Office of Education(JNE) & Heumm Design. All rights reserved. Font designed by Heumm Design."
+        },
+        "Font Family": {
+          "ko": "전남교육또박체 OTF Extrabold",
+          "en": "JNE Ttobak OTF Extrabold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "전라남도교육청_전남교육또박체_OTF_Extrabold",
+          "en": "Jeollanamdo Office of Education_JNE Ttobak_OTF_Extrabold"
+        },
+        "Full Font Name": {
+          "ko": "전남교육또박체 OTF Extrabold",
+          "en": "JNE-Ttobak-OTF-Extrabold"
+        },
+        "Version": {
+          "en": "Version 1.00"
+        },
+        "PostScript Name": {
+          "en": "JNE-Ttobak-OTF-Extrabold"
+        },
+        "Trademark": {
+          "ko": "전남교육또박체는 전라남도교육청의 전용서체입니다.",
+          "en": "JNE Ttobak is a registered trademark of Jeollanamdo Office of Education(JNE)."
+        },
+        "Manufacturer": {
+          "ko": "헤움디자인",
+          "en": "Heumm Design"
+        },
+        "Designer": {
+          "ko": "헤움: 이도경; 이효",
+          "en": "Heumm: Dokyung Lee; Hyo Lee"
+        },
+        "URL Vendor": {
+          "en": "heumm.com"
+        },
+        "License Description": {
+          "ko": "전라남도교육청",
+          "en": "Jeollanamdo Office of Education"
+        },
+        "License Info URL": {
+          "en": "https://www.jne.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "전남교육또박체 OTF",
+          "en": "JNE Ttobak OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Extrabold",
+          "en": "Extrabold"
+        }
+      }
+    },
+    {
+      "id": "jne-yuna",
+      "family": "jne-yuna",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts9@20261011/fonts/jgegokr/jne-yuna.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 15,
+          "weight": 5,
+          "proportion": 4,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.jne.go.kr",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2024 Jeollanamdo Office of Education(JNE) & Heumm Design. All rights reserved. Font designed by Heumm Design."
+        },
+        "Font Family": {
+          "ko": "전남교육유나체 OTF",
+          "en": "JNE Yuna OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "전라남도교육청_전남교육유나체_OTF_Regular",
+          "en": "Jeollanamdo Office of Education_JNE Yuna_OTF_Regular"
+        },
+        "Full Font Name": {
+          "ko": "전남교육유나체 OTF Regular",
+          "en": "JNE-Yuna-OTF-Regular"
+        },
+        "Version": {
+          "en": "Version 1.00"
+        },
+        "PostScript Name": {
+          "en": "JNE-Yuna-OTF-Regular"
+        },
+        "Trademark": {
+          "ko": "전남교육유나체는 전라남도교육청의 전용서체입니다.",
+          "en": "JNE Yuna is a registered trademark of Jeollanamdo Office of Education(JNE)."
+        },
+        "Manufacturer": {
+          "ko": "헤움디자인",
+          "en": "Heumm Design"
+        },
+        "Designer": {
+          "ko": "헤움: 이도경; 박지훈",
+          "en": "Heumm: Dokyung Lee; Jihoon Park"
+        },
+        "URL Vendor": {
+          "en": "heumm.com"
+        },
+        "License Description": {
+          "ko": "전라남도교육청",
+          "en": "Jeollanamdo Office of Education"
+        },
+        "License Info URL": {
+          "en": "https://www.jne.go.kr"
+        }
+      }
+    },
+    {
+      "id": "jnebareun2-0",
+      "family": "jnebareun2.0",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.02",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts9@20261011/fonts/jgegokr/jnebareun2.0.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.jne.go.kr",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2024 Jeollanamdo Office of Education(JNE) & Heumm Design. All rights reserved. Font designed by Heumm Design."
+        },
+        "Font Family": {
+          "ko": "전남교육바른체 OTF Bold",
+          "en": "JNE Bareun OTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "전라남도교육청_전남교육바른체_OTF_Bold",
+          "en": "Jeollanamdo Office of Education_JNE Bareun_OTF_Bold"
+        },
+        "Full Font Name": {
+          "ko": "전남교육바른체 OTF Bold",
+          "en": "JNEBareun2.0OTF-Bold"
+        },
+        "Version": {
+          "en": "Version 1.02"
+        },
+        "PostScript Name": {
+          "en": "JNEBareun2.0OTF-Bold"
+        },
+        "Trademark": {
+          "ko": "전남교육바른체는 전라남도교육청의 전용서체입니다.",
+          "en": "JNE Bareun is a registered trademark of Jeollanamdo Office of Education(JNE)."
+        },
+        "Manufacturer": {
+          "ko": "헤움디자인",
+          "en": "Heumm Design"
+        },
+        "Designer": {
+          "ko": "헤움: 이도경; 허원준",
+          "en": "Heumm: Dokyung Lee; Wonjoon Huh"
+        },
+        "URL Vendor": {
+          "en": "heumm.com"
+        },
+        "License Description": {
+          "ko": "전라남도교육청",
+          "en": "Jeollanamdo Office of Education"
+        },
+        "License Info URL": {
+          "en": "https://www.jne.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "전남교육바른체 OTF",
+          "en": "JNE Bareun OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
       "id": "spoqahansansneo",
       "family": "spoqahansansneo",
       "categories": [
